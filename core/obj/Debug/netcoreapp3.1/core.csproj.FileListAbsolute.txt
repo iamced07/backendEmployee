@@ -1,0 +1,17 @@
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\core.deps.json
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\core.runtimeconfig.json
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\core.runtimeconfig.dev.json
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\core.dll
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\core.pdb
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.csprojAssemblyReference.cache
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.AssemblyInfoInputs.cache
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.AssemblyInfo.cs
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.csproj.CoreCompileInputs.cache
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.dll
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.pdb
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.genruntimeconfig.cache
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\data.dll
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\Entity.dll
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\data.pdb
+E:\BACKEND\Employee\core\bin\Debug\netcoreapp3.1\Entity.pdb
+E:\BACKEND\Employee\core\obj\Debug\netcoreapp3.1\core.csproj.CopyComplete

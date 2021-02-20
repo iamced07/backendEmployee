@@ -1,0 +1,15 @@
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\data.deps.json
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\data.runtimeconfig.json
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\data.runtimeconfig.dev.json
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\data.dll
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\data.pdb
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.csprojAssemblyReference.cache
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.AssemblyInfoInputs.cache
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.AssemblyInfo.cs
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.csproj.CoreCompileInputs.cache
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.dll
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.pdb
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.genruntimeconfig.cache
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\Entity.dll
+E:\BACKEND\Employee\data\bin\Debug\netcoreapp3.1\Entity.pdb
+E:\BACKEND\Employee\data\obj\Debug\netcoreapp3.1\data.csproj.CopyComplete
